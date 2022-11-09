@@ -439,23 +439,23 @@ header::before {
 }
 
 .bar .progress-line.html span {
-    width: 90%;
+    width: 92%;
 }
 
 .bar .progress-line.css span {
-    width: 60%;
+    width: 84%;
 }
 
 .bar .progress-line.jquery span {
-    width: 85%;
+    width: 89%;
 }
 
 .bar .progress-line.python span {
-    width: 50%;
+    width: 83%;
 }
 
 .bar .progress-line.mysql span {
-    width: 75%;
+    width: 79%;
 }
 
 .progress-line span::before {
